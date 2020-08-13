@@ -11,6 +11,7 @@
 //     console.log(this.driver.document);
 // }
 
+// EcmaScript6
 
 class Car {
     constructor(license, driver) {
