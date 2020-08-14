@@ -6,7 +6,7 @@
 
 class Payment {
     constructor(id) {
-        this.id = id
+        this.id = id;
     }
 
     printDataPayment() {
