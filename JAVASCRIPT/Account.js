@@ -17,8 +17,5 @@ class Account {
         this.password = password;
     }
 
-    printDataAccount () {
-        console.log(this.id);
-        console.log(this.email);
-    }
+
 }
