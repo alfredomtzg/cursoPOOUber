@@ -8,8 +8,8 @@ class UberX extends Car {
     printDataUberX () {
         console.log(this.driver);
         console.log(this.driver.name);
-        console.log(this.driver.document);
         console.log(this.brand);
         console.log(this.model);
+        console.log(this.passenger);
     }
 }
