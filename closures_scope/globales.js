@@ -1,3 +1,11 @@
 var hello = "Estoy saludando";
+let world = "Hola mundo";
+const helloWorld = "Hola mundoooooo!";
 
-console.log(hello);
+const anotherFuncion = () => {
+    console.log(hello);
+    console.log(world);
+    console.log(helloWorld);
+}
+
+anotherFuncion();
